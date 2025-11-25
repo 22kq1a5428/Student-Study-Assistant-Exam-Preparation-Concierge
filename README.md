@@ -1,1 +1,1 @@
-# Student-Study-Assistant-Exam-Preparation-Concierge
+# Student Study Assistant - Multi-Agent Project\n\nThis repository contains a beginner-friendly multi-agent system (Planner → Worker → Evaluator).\n
